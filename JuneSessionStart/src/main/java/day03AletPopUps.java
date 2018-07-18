@@ -32,7 +32,9 @@ public class day03AletPopUps {
 		
 		
 		
+		Thread.sleep(3000);
 		
+		driver.close();
 		
 		
 		
